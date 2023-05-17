@@ -1,0 +1,17 @@
+move ID 0
+  Caracter especial 
+add ID 1
+  Caracter especial 
+picture ID 2
+  Caracter especial 
+facultad ID 3
+facultad ID 3
+  Caracter especial 
+de ID 4
+  Caracter especial 
+ingenieria ID 5
+  Caracter especial 
+sistemas ID 6
+  Caracter especial 
+operativos ID 7
+  

@@ -1,0 +1,96 @@
+from ID 0
+ejemplo ID 1
+; Caracter especial 
+pic ID 2
+a ID 3
+, Caracter especial 
+b ID 4
+, Caracter especial 
+c ID 5
+= Caracter especial 
+7 Constante entera 0
+; Caracter especial 
+pic ID 2
+a ID 3
+, Caracter especial 
+b ID 4
+, Caracter especial 
+c ID 5
+= Caracter especial 
+7 Constante entera 0
+; Caracter especial 
+move ID 6
+a ID 3
+= Caracter especial 
+5 Constante entera 1
+; Caracter especial 
+a ID 3
+= Caracter especial 
+5 Constante entera 1
+; Caracter especial 
+a ID 3
+= Caracter especial 
+5.0 Constante real 0
+; Caracter especial 
+a ID 3
+= Caracter especial 
+5.0 Constante real 0
+; Caracter especial 
+a ID 3
+= Caracter especial 
+5.5 Constante real 1
+; Caracter especial 
+a ID 3
+= Caracter especial 
+5.5 Constante real 1
+; Caracter especial 
+b ID 4
+= Caracter especial 
+6 Constante entera 2
+; Caracter especial 
+b ID 4
+= Caracter especial 
+6 Constante entera 2
+; Caracter especial 
+b ID 4
+= Caracter especial 
+6.0 Constante real 2
+; Caracter especial 
+b ID 4
+= Caracter especial 
+6.0 Constante real 2
+; Caracter especial 
+b ID 4
+= Caracter especial 
+6.6 Constante real 3
+; Caracter especial 
+b ID 4
+= Caracter especial 
+6.6 Constante real 3
+; Caracter especial 
+c ID 5
+= Caracter especial 
+"Cte. String 1" Constante string 0
+; Caracter especial 
+c ID 5
+= Caracter especial 
+"Cte. String 1" Constante string 0
+; Caracter especial 
+c ID 5
+= Caracter especial 
+"Cte. String 2" Constante string 1
+; Caracter especial 
+c ID 5
+= Caracter especial 
+"Cte. String 2" Constante string 1
+; Caracter especial 
+c ID 5
+= Caracter especial 
+"Cte. String 3" Constante string 2
+; Caracter especial 
+c ID 5
+= Caracter especial 
+"Cte. String 3" Constante string 2
+; Caracter especial 
+go ID 7
+  

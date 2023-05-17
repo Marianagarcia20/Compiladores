@@ -1,0 +1,16 @@
+CATCH PR 6
+  Caracter especial 
+facultad ID 0
+CHAR PR 7
+  Caracter especial 
+facultad ID 0
+; Caracter especial 
+  Caracter especial 
+de ID 1
+  Caracter especial 
+ingenieria ID 2
+  Caracter especial 
+sistemas ID 3
+  Caracter especial 
+operativos ID 4
+  

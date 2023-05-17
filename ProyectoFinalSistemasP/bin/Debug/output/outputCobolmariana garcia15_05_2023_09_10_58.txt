@@ -1,0 +1,63 @@
+{ Caracter especial 
+facultad ID 0
+{ Caracter especial 
+} Caracter especial 
+de ID 1
+} Caracter especial 
+( Caracter especial 
+- Caracter especial 
+contaduria ID 2
+- Caracter especial 
+) Caracter especial 
+= Caracter especial 
+katia ID 3
+( Caracter especial 
+) Caracter especial 
+<= Caracter especial 
+add PR 1
+<= Caracter especial 
+simon ID 4
+= Caracter especial 
+, Caracter especial 
+_ Caracter especial 
+move PR 12
+> Caracter especial 
+if PR 11
+; Caracter especial 
+> Caracter especial 
+contaduria ID 2
+; Caracter especial 
+_ Caracter especial 
+* Caracter especial 
+100 Constante entera 0
++ Caracter especial 
+/ Caracter especial 
+katia ID 3
+, Caracter especial 
+simon ID 4
+= Caracter especial 
+_ Caracter especial 
++ Caracter especial 
+100 Constante entera 0
+; Caracter especial 
+14.42 Constante real 0
+* Caracter especial 
+< Caracter especial 
+sueldo ID 5
+< Caracter especial 
+$ Caracter especial 
+10.20 Constante real 1
+; Caracter especial 
+mariana ID 6
+/ Caracter especial 
+<> Caracter especial 
+10201 Constante entera 1
+<> Caracter especial 
+; Caracter especial 
+"sueldo de empleado" Constante string 0
+; Caracter especial 
+"sueldo de empleado" Constante string 0
+>= Caracter especial 
+/* comentarios de progra */ Comentario 
+>= Caracter especial 
+  

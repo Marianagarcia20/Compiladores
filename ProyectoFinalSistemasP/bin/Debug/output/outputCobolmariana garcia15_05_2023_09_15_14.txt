@@ -1,0 +1,10 @@
+CATCH ID 0
+facultad ID 1
+CHAR ID 2
+facultad ID 1
+; Caracter especial 
+de ID 3
+ingenieria ID 4
+sistemas ID 5
+operativos ID 6
+  

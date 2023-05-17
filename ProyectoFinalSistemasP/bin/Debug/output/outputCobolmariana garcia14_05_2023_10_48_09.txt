@@ -1,0 +1,10 @@
+MOVE PR 12
+ADD PR 1
+PICTURE PR 17
+facultad ID 0
+facultad ID 0
+de ID 1
+ingenieria ID 2
+sistemas ID 3
+operativos ID 4
+  

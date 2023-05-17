@@ -1,0 +1,19 @@
+move ID 0
+add ID 1
+picture ID 2
+facultad ID 3
+facultad ID 3
+de ID 4
+ingenieria ID 5
+sistemas ID 6
+operativos ID 7
+move ID 0
+add ID 1
+picture ID 2
+facultad ID 3
+facultad ID 3
+de ID 4
+ingenieria ID 5
+sistemas ID 6
+operativos ID 7
+  
